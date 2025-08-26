@@ -31,8 +31,8 @@
 
         /* Radio Player Section Styles */
         .radio-player-container {
-            width: 220px;
-            height: 750px;
+            width: 300px;
+            height: 800px;
             background: linear-gradient(45deg, #007bff, #17a2b8);
             border-radius: 20px;
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
