@@ -18,7 +18,7 @@
         
         .container {
             max-width: 600px;
-            width: 100%;
+            width: 250%;
             background-color: #fff;
             padding: 30px;
             border-radius: 15px;
@@ -41,7 +41,7 @@
             align-items: center;
             justify-content: space-around;
             color: white;
-            padding: 20px;
+            padding: 10px;
             position: relative;
             overflow: hidden;
         }
