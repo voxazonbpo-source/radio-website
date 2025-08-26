@@ -34,7 +34,7 @@
             width: 220px;
             height: 280px;
             background: linear-gradient(45deg, #007bff, #17a2b8);
-            border-radius: 20px;
+            border-radius: 40px;
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
             display: flex;
             flex-direction: column;
