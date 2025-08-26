@@ -18,7 +18,7 @@
         
         .container {
             max-width: 600px;
-            width: 250%;
+            width: 100%;
             background-color: #fff;
             padding: 30px;
             border-radius: 15px;
@@ -32,7 +32,7 @@
         /* Radio Player Section Styles */
         .radio-player-container {
             width: 220px;
-            height: 300px;
+            height: 500px;
             background: linear-gradient(45deg, #007bff, #17a2b8);
             border-radius: 20px;
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
