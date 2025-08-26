@@ -34,14 +34,14 @@
             width: 220px;
             height: 280px;
             background: linear-gradient(45deg, #007bff, #17a2b8);
-            border-radius: 40px;
+            border-radius: 20px;
             box-shadow: 0 10px 20px rgba(0, 0, 0, 0.3);
             display: flex;
             flex-direction: column;
             align-items: center;
             justify-content: space-around;
             color: white;
-            padding: 10px;
+            padding: 20px;
             position: relative;
             overflow: hidden;
         }
